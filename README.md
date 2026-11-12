@@ -2,7 +2,7 @@
 
 A detailed learning guide to the React Hot Wheels collection manager.
 
-This guide describes the source in this project as reviewed on **12 November 2026**. It follows the application from the first browser request to SQLite, then explains the React components, shelf algorithms, photo processing, catalog parser, styling, and current limitations. The final appendix contains a collapsible snapshot of every authored source and configuration file so you can read the explanation and implementation together.
+This guide describes the source in this project. It follows the application from the first browser request to SQLite, then explains the React components, shelf algorithms, photo processing, catalog parser, styling, and current limitations. The final appendix contains a collapsible snapshot of every authored source and configuration file so you can read the explanation and implementation together.
 
 The examples use fictional cars and identifiers. Your personal database and photos are excluded from this document.
 
