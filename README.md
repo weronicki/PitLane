@@ -2,6 +2,8 @@
 
 Pit Lane is a local Hot Wheels collection manager built with React, Vite, and SQLite. Catalog your cars, add photos, and map your collection to a display shelf.
 
+![Sample preview of the Pit Lane collection and display shelf](docs/pit-lane-screenshot.png)
+
 ## Features
 
 - Search your collection and filter it by brand or real-car year.
